@@ -1,2 +1,2 @@
 # Python_Intermediate
-Here we do some tasks using basic of pythons though I already do some tasks using the basics in Python_basic 
+ilw# Here Here we will learn class, methods, inheritance,  iterators, generator etcwe 
